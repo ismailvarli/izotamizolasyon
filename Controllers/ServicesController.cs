@@ -40,5 +40,34 @@ namespace izotamizolasyon.Controllers
         {
             return View();
         }
+        public IActionResult bohcalamaizolasyon()
+        {
+            return View();
+        }
+        public IActionResult singilcati()
+        {
+            return View();
+        }
+        public IActionResult kiremitcati()
+        {
+            return View();
+        }
+        public IActionResult terasizolasyon()
+        {
+            return View();
+        }
+        public IActionResult membrancati()
+        {
+            return View();
+        }
+        public IActionResult poliuretansurmeizolasyon()
+        {
+            return View();
+        }
+        public IActionResult surmeizolasyon()
+        {
+            return View();
+        }
+
     }
 }
