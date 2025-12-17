@@ -68,6 +68,11 @@ namespace izotamizolasyon.Controllers
         {
             return View();
         }
+        [Route("beton-silim")]
+        public IActionResult betonsilim()
+        {
+            return View();
+        }
 
     }
 }
